@@ -100,5 +100,57 @@
             "amount": "497.00",
             "date": "2018-06-11T04:48:02.873Z"
         }
+    ],
+    "accounts": [
+        {
+            "_id": "1",
+            "accountname": "Graham, Leanne",
+            "accountcompany": "Romaguera-Crona"
+        },
+        {
+            "_id": "2",
+            "accountname": "Howell, Ervin",
+            "accountcompany": "Deckow-Crist"
+        },
+        {
+            "_id": "3",
+            "accountname": "Bauch, Clementine",
+            "accountcompany": "Romaguera-Jacobson"
+        },
+        {
+            "_id": "4",
+            "accountname": "Lebsack, Patricia",
+            "accountcompany": "Robel-Corkery"
+        },
+        {
+            "_id": "5",
+            "accountname": "Dietrich, Chelsey",
+            "accountcompany": "Keebler LLC"
+        },
+        {
+            "_id": "6",
+            "accountname": "Dennis, Mrs.",
+            "accountcompany": "Considine-Lockman"
+        },
+        {
+            "_id": "7",
+            "accountname": "Weissnat, Kurtis",
+            "accountcompany": "Johns Group"
+        },
+        {
+            "_id": "8",
+            "accountname": "Runolfsdottir, Nicholas",
+            "accountcompany": "Abernathy Group"
+        },
+        {
+            "_id": "9",
+            "accountname": "Reichert, Glenna",
+            "accountcompany": "Yost and Sons"
+        },
+        {
+            "_id": "10",
+            "accountname": "DuBuque, Clementina",
+            "accountcompany": "Hoeger LLC"
+        }
     ]
 }

@@ -71,8 +71,8 @@
       "last_name": "Campbell",
       "email": "fcampbell3@chronoengine.com",
       "gender": "Female",
-      "latitude": "33.5446",
-      "longitude": "-86.9292",
+      "latitude": "43.4599",
+      "longitude": "-116.244",
       "available": false,
       "phone": "1-(205)173-8911"
     },
@@ -131,8 +131,8 @@
       "last_name": "Wells",
       "email": "twellsj@joomla.org",
       "gender": "Male",
-      "latitude": "42.7286",
-      "longitude": "-84.5517",
+      "latitude": "35.5514",
+      "longitude": "-97.4075",
       "available": true,
       "phone": "1-(517)243-3460"
     },
@@ -143,8 +143,8 @@
       "last_name": "Fowler",
       "email": "sfowler0@ycombinator.com",
       "gender": "Female",
-      "latitude": "40.4598",
-      "longitude": "-79.8224",
+      "latitude": "35.5514",
+      "longitude": "-97.4075",
       "available": true,
       "phone": "1-(412)896-1986"
     },
@@ -155,8 +155,8 @@
       "last_name": "Edwards",
       "email": "eedwardsv@typepad.com",
       "gender": "Female",
-      "latitude": "41.6782",
-      "longitude": "-83.4972",
+      "latitude": "35.5514",
+      "longitude": "-97.4075",
       "available": true,
       "phone": "1-(419)653-8939"
     },

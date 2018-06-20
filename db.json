@@ -62,11 +62,7 @@
       "latitude": "43.4599",
       "longitude": "-116.244",
       "available": true,
-      "address": "42 Randy Avenue",
-      "PostalCode": "83711",
-      "phone": "1-(208)556-8945",
-      "city": "Boise",
-      "state": "ID"
+      "phone": "1-(208)556-8945"
     },
     {
       "_id": "58a70bdd2032f75d11133be1",
@@ -78,11 +74,7 @@
       "latitude": "33.5446",
       "longitude": "-86.9292",
       "available": false,
-      "address": "65 Stuart Street",
-      "PostalCode": "35225",
-      "phone": "1-(205)173-8911",
-      "city": "Birmingham",
-      "state": "AL"
+      "phone": "1-(205)173-8911"
     },
     {
       "_id": "58a70bdd7aab425542af44d3",
@@ -94,11 +86,7 @@
       "latitude": "42.7684",
       "longitude": "-78.8871",
       "available": true,
-      "address": "473 Lawn Plaza",
-      "PostalCode": "14269",
-      "phone": "1-(716)930-3738",
-      "city": "Buffalo",
-      "state": "NY"
+      "phone": "1-(716)930-3738"
     },
     {
       "_id": "58a70bdd1c9508427f97b8b4",
@@ -110,11 +98,7 @@
       "latitude": "38.9087",
       "longitude": "-77.0414",
       "available": true,
-      "address": "733 Homewood Terrace",
-      "PostalCode": "20036",
-      "phone": "1-(202)463-5543",
-      "city": "Washington",
-      "state": "DC"
+      "phone": "1-(202)463-5543"
     },
     {
       "_id": "58a70bdd1c05d5d81c740274",
@@ -126,11 +110,7 @@
       "latitude": "27.8402",
       "longitude": "-82.7125",
       "available": false,
-      "address": "47412 Vahlen Trail",
-      "PostalCode": "34665",
-      "phone": "1-(850)345-0715",
-      "city": "Pinellas Park",
-      "state": "FL"
+      "phone": "1-(850)345-0715"
     },
     {
       "_id": "58a70bdd1c05d5d81c740275",
@@ -142,11 +122,7 @@
       "latitude": "30.2642",
       "longitude": "-93.3265",
       "available": true,
-      "address": "06 John Wall Park",
-      "PostalCode": "70616",
-      "phone": "1-(337)382-6765",
-      "city": "Lake Charles",
-      "state": "LA"
+      "phone": "1-(337)382-6765"
     },
     {
       "_id": "58a70bdd3d3f64db1169694f",
@@ -158,11 +134,7 @@
       "latitude": "42.7286",
       "longitude": "-84.5517",
       "available": true,
-      "address": "1 Goodland Trail",
-      "PostalCode": "48919",
-      "phone": "1-(517)243-3460",
-      "city": "Lansing",
-      "state": "MI"
+      "phone": "1-(517)243-3460"
     },
     {
       "_id": "58a70bdd7aab425542af44d4",
@@ -174,11 +146,7 @@
       "latitude": "40.4598",
       "longitude": "-79.8224",
       "available": true,
-      "address": "62769 Anhalt Center",
-      "PostalCode": "15235",
-      "phone": "1-(412)896-1986",
-      "city": "Pittsburgh",
-      "state": "PA"
+      "phone": "1-(412)896-1986"
     },
     {
       "_id": "58a70bddf8ff0a286f7e5cc4",
@@ -190,11 +158,7 @@
       "latitude": "41.6782",
       "longitude": "-83.4972",
       "available": true,
-      "address": "571 Twin Pines Place",
-      "PostalCode": "43656",
-      "phone": "1-(419)653-8939",
-      "city": "Toledo",
-      "state": "OH"
+      "phone": "1-(419)653-8939"
     },
     {
       "_id": "58a70bdd6bcee06529ad6026",
@@ -206,11 +170,7 @@
       "latitude": "35.5514",
       "longitude": "-97.4075",
       "available": true,
-      "address": "6 Swallow Crossing",
-      "PostalCode": "73152",
-      "phone": "1-(405)656-1367",
-      "city": "Oklahoma City",
-      "state": "OK"
+      "phone": "1-(405)656-1367"
     },
     {
       "_id": "58a70bdd1f74130f03bfe706",
@@ -222,11 +182,7 @@
       "latitude": "32.8488",
       "longitude": "-79.8577",
       "available": true,
-      "address": "962 Columbus Court",
-      "PostalCode": "29416",
-      "phone": "1-(843)640-9498",
-      "city": "Charleston",
-      "state": "SC"
+      "phone": "1-(843)640-9498"
     },
     {
       "_id": "58a70bddebccdf973c4d0229",
@@ -238,11 +194,7 @@
       "latitude": "38.025",
       "longitude": "-121.2972",
       "available": true,
-      "address": "567 Delladonna Plaza",
-      "PostalCode": "95210",
-      "phone": "1-(209)494-4986",
-      "city": "Stockton",
-      "state": "CA"
+      "phone": "1-(209)494-4986"
     },
     {
       "_id": "58a70bdd6bcee06529ad6027",
@@ -254,11 +206,7 @@
       "latitude": "41.7691",
       "longitude": "-72.701",
       "available": false,
-      "address": "56355 Bultman Place",
-      "PostalCode": "06105",
-      "phone": "1-(203)565-0427",
-      "city": "Hartford",
-      "state": "CT"
+      "phone": "1-(203)565-0427"
     },
     {
       "_id": "58a70bdd7aab425542af44d7",
@@ -270,11 +218,7 @@
       "latitude": "29.834",
       "longitude": "-95.4342",
       "available": true,
-      "address": "8993 Mitchell Park",
-      "PostalCode": "77212",
-      "phone": "1-(713)172-7729",
-      "city": "Houston",
-      "state": "TX"
+      "phone": "1-(713)172-7729"
     },
     {
       "_id": "58a70bdd1f74130f03bfe708",
@@ -286,11 +230,7 @@
       "latitude": "29.9781",
       "longitude": "-95.5803",
       "available": false,
-      "address": "8 Oakridge Alley",
-      "PostalCode": "77070",
-      "phone": "1-(713)365-7038",
-      "city": "Houston",
-      "state": "TX"
+      "phone": "1-(713)365-7038"
     },
     {
       "_id": "58a70bdd1c05d5d81c740276",
@@ -302,11 +242,7 @@
       "latitude": "41.9699",
       "longitude": "-87.7603",
       "available": true,
-      "address": "99571 Dawn Junction",
-      "PostalCode": "60630",
-      "phone": "1-(773)811-6839",
-      "city": "Chicago",
-      "state": "IL"
+      "phone": "1-(773)811-6839"
     },
     {
       "_id": "58a70bdd7aab425542af44d6",
@@ -318,11 +254,7 @@
       "latitude": "45.5483",
       "longitude": "-122.8276",
       "available": false,
-      "address": "6 Graedel Terrace",
-      "PostalCode": "97229",
-      "phone": "1-(971)164-5291",
-      "city": "Portland",
-      "state": "OR"
+      "phone": "1-(971)164-5291"
     }
   ]
 }
